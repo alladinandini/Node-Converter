@@ -1,0 +1,15 @@
+{
+  "name": "node-converter",
+  "version": "1.0.0",
+  "description": "A sample node apps",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Node-Converter"
+  },
+  "author": "",
+  "license": "ISC"
+}
